@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440468240410",
+    "project_id": "curdtutorial-c90e9",
+    "storage_bucket": "curdtutorial-c90e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440468240410:android:8a3f1356c4f7bfd30f79a3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-g0nvj98Y6VpsJvWmOG4SZFWHTTOt_K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
