@@ -1,3 +1,6 @@
+// simple note taking app using firebase firestore
+//CRUD OPERATION ON FIREBASE FIRESTORE DATABASE
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_test/firebase_options.dart';
 import 'package:firebase_test/pages/home_page.dart';
